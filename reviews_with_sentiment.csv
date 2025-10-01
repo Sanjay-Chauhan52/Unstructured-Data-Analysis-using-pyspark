@@ -1,0 +1,101 @@
+review_id,review_text,actual_sentiment
+1,Product broke after one use.,negative
+2,Satisfactory but not impressive.,neutral
+3,Excellent quality and fast delivery.,positive
+4,Completely useless item.,negative
+5,"Amazing product, I loved it!",positive
+6,"Perfect, just as described.",positive
+7,Extremely dissatisfied with the purchase.,negative
+8,Service was horrible.,negative
+9,Would not recommend at all.,negative
+10,"Very poor quality, do not buy.",negative
+11,Excellent quality and fast delivery.,positive
+12,Service was horrible.,negative
+13,Service was acceptable.,positive
+14,Excellent quality and fast delivery.,positive
+15,"Product was fine, met my expectations.",neutral
+16,Worst experience ever.,negative
+17,Great experience overall.,positive
+18,Neither good nor bad.,neutral
+19,The product is just decent.,neutral
+20,The product is just decent.,neutral
+21,Neither good nor bad.,neutral
+22,Not worth the money.,negative
+23,I would definitely buy again.,positive
+24,The product exceeded expectations.,neutral
+25,The product is just decent.,neutral
+26,Worst experience ever.,negative
+27,Would not recommend at all.,negative
+28,Worst experience ever.,negative
+29,"It's okay, nothing special.",neutral
+30,Would not recommend at all.,negative
+31,Not worth the money.,neutral
+32,"It's okay, nothing special.",neutral
+33,"Amazing product, I loved it!",positive
+34,Delivery took time but product is okay.,neutral
+35,Delivery took time but product is okay.,neutral
+36,"Product was fine, met my expectations.",neutral
+37,Satisfactory but not impressive.,neutral
+38,"Very satisfied, highly recommend.",positive
+39,Delivery took time but product is okay.,neutral
+40,Satisfactory but not impressive.,neutral
+41,"Average experience, could be better.",neutral
+42,Worst experience ever.,negative
+43,"It's okay, nothing special.",neutral
+44,Service was horrible.,negative
+45,Extremely dissatisfied with the purchase.,negative
+46,"It's okay, nothing special.",neutral
+47,Extremely dissatisfied with the purchase.,negative
+48,Satisfactory but not impressive.,neutral
+49,"Average experience, could be better.",neutral
+50,The description was misleading.,negative
+51,Product broke after one use.,negative
+52,Not worth the money.,neutral
+53,Completely useless item.,negative
+54,Absolutely fantastic purchase!,positive
+55,Service was horrible.,neutral
+56,Satisfactory but not impressive.,neutral
+57,Great experience overall.,positive
+58,The service was outstanding.,positive
+59,Completely useless item.,negative
+60,I would definitely buy again.,positive
+61,Excellent quality and fast delivery.,positive
+62,The description was misleading.,neutral
+63,"Amazing product, I loved it!",positive
+64,"Very poor quality, do not buy.",negative
+65,Great experience overall.,positive
+66,Neither good nor bad.,neutral
+67,Service was horrible.,neutral
+68,The product is just decent.,neutral
+69,Completely useless item.,negative
+70,"Product was fine, met my expectations.",neutral
+71,The service was outstanding.,positive
+72,Neither good nor bad.,neutral
+73,"Not bad, not great either.",neutral
+74,"It's okay, nothing special.",neutral
+75,"It's okay, nothing special.",neutral
+76,Extremely dissatisfied with the purchase.,negative
+77,The service was outstanding.,positive
+78,"Very satisfied, highly recommend.",positive
+79,"Amazing product, I loved it!",positive
+80,The service was outstanding.,positive
+81,"Average experience, could be better.",neutral
+82,High quality and worth the price.,positive
+83,The product is just decent.,neutral
+84,Great experience overall.,positive
+85,"Very satisfied, highly recommend.",positive
+86,The product exceeded expectations.,neutral
+87,Product broke after one use.,negative
+88,Delivery took time but product is okay.,neutral
+89,"Very satisfied, highly recommend.",positive
+90,"Very satisfied, highly recommend.",positive
+91,Product broke after one use.,negative
+92,Service was horrible.,neutral
+93,The product exceeded expectations.,neutral
+94,The product is just decent.,neutral
+95,Extremely dissatisfied with the purchase.,negative
+96,The service was outstanding.,positive
+97,Completely useless item.,negative
+98,Absolutely fantastic purchase!,positive
+99,Service was horrible.,neutral
+100,Extremely dissatisfied with the purchase.,negative
